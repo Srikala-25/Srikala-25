@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srikala%20Karimisetty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20AI%20%26%20ML%20Explorer&descAlignY=55&descSize=16"/>
-
-<!-- Typing animation -->
+<!-- Typing animation - very reliable -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ECFA4&center=true&vCenter=true&random=false&width=600&lines=AWS+%2B+DevOps+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Ansible;Python+%7C+Java+%7C+SQL+%7C+HTML%2FCSS;Building+AI+%26+ML+Projects+%F0%9F%A4%96;B.Tech+CSE+%40+Santhiram+Engineering+College" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1ECFA4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Srikala+Karimisetty+%F0%9F%91%8B;DevOps+%26+AWS+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Ansible;Python+%7C+Java+%7C+SQL+%7C+Terraform;B.Tech+CSE+%40+Santhiram+Engineering+%F0%9F%8E%93;Open+to+DevOps+%2F+Cloud+%2F+SRE+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=Srikala-25&label=Profile+Views&color=1ecfa4&style=flat" alt="profile views"/>
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=Srikala-25&label=Profile+Views&color=1ecfa4&style=for-the-badge" alt="profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Srikala-25?label=Followers&style=flat&color=1ecfa4" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Srikala-25?label=Followers&style=for-the-badge&color=1ecfa4&logoColor=white" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-2026-brightgreen?style=for-the-badge&logo=briefcase" />
 
 </div>
 
@@ -84,10 +83,10 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Srikala-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1ECFA4&icon_color=FCA311&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srikala-25&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=1ECFA4&ring=FCA311&fire=FCA311&currStreakLabel=1ECFA4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Srikala-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1ECFA4&icon_color=FCA311&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Srikala-25&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=1ECFA4&ring=FCA311&fire=FCA311&currStreakLabel=1ECFA4" />
 
-<br/>
+<br/><br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikala-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1ECFA4&text_color=ffffff" />
 
@@ -103,7 +102,7 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Srikala-25&bg_color=0A0F1E&color=1ECFA4&line=FCA311&point=ffffff&area=true&hide_border=true" />
@@ -114,10 +113,10 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 ## 🎯 Currently Working On
 
 ```
-🔭 Building DevOps projects — CI/CD pipeline with Jenkins + Docker + Kubernetes
-📚 Learning Python for AI/ML — 150-day roadmap
+🔭 CI/CD pipeline — Jenkins + Docker + Kubernetes on AWS EC2
+📚 Python for AI/ML — 150-day learning roadmap
 ☁️  Deploying ML models on AWS SageMaker
-🌱 Exploring Terraform for Infrastructure as Code
+🌱 Terraform for Infrastructure as Code
 ```
 
 ---
@@ -132,7 +131,7 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikalakarimisetty-360a0a375)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikala-karimisetty/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srikala-25)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimisettysrikala@gmail.com)
 
@@ -145,5 +144,7 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+![snake gif](https://github.com/Srikala-25/Srikala-25/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
