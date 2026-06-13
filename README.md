@@ -156,5 +156,27 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1ECFA4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C±" alt="footer typing" />
+<b>⭐ If you like my work, consider starring my repositories! ⭐</b>
+
+![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+
+<b>💬 "Every expert was once a beginner. Keep building. Keep growing. 🚀"</b>
+</div>
+
+<div align="center">
+
+---
+
+### 🙏 Thanks for visiting my profile!
+
+**💬 "Every expert was once a beginner. Keep building. Keep growing. 🚀"**
+
+⭐ If you find my work helpful — **star a repo** and let's connect!
+
+<br/>
+
+![Visitor Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-%E2%9D%A4-red?style=for-the-badge)
+&nbsp;
+![Made with](https://img.shields.io/badge/Made%20with-%F0%9F%92%99%20by%20Srikala-1ecfa4?style=for-the-badge)
+
 </div>
