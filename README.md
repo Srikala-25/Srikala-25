@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Typing animation - very reliable -->
+<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1ECFA4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Srikala+Karimisetty+%F0%9F%91%8B;DevOps+%26+AWS+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Ansible;Python+%7C+Java+%7C+SQL+%7C+Terraform;B.Tech+CSE+%40+Santhiram+Engineering+%F0%9F%8E%93;Open+to+DevOps+%2F+Cloud+%2F+SRE+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1ECFA4&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Srikala+Karimisetty+%F0%9F%91%8B;DevOps+%26+AWS+Cloud+Engineer+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Ansible;Python+%7C+Java+%7C+SQL+%7C+Terraform;B.Tech+CSE+%40+Santhiram+Engineering+%F0%9F%8E%93;Open+to+DevOps+%2F+Cloud+%2F+SRE+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Srikala-25&label=Profile+Views&color=1ecfa4&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Srikala-25&label=Profile+Views&color=1ecfa4&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Srikala-25?label=Followers&style=for-the-badge&color=1ecfa4&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Srikala-25?label=Followers&style=for-the-badge&color=1ecfa4" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-2026-brightgreen?style=for-the-badge&logo=briefcase" />
+<img src="https://img.shields.io/badge/Open%20To%20Work-2026-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
@@ -38,27 +37,36 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+
+<br/>
 
 ### 💻 Programming & Dev
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
 
 ### 🔧 Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </div>
 
@@ -68,12 +76,12 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏗️ [**terraform-aws-ec2**](https://github.com/Srikala-25/terraform-aws-ec2) | Automate AWS EC2 provisioning with Terraform IaC | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws) |
-| ✈️ [**Fight-Booking-App**](https://github.com/Srikala-25/Fight-Booking-App) | Flight booking web application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| ☕ [**javaprogram**](https://github.com/Srikala-25/javaprogram) | Java programming practice & algorithms | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk) |
-| 🎓 [**apnacollege-demo**](https://github.com/Srikala-25/apnacollege-demo) | First steps — learning & growing | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) |
+| &nbsp; | Project | Description | Stack |
+|---|---|---|---|
+| 🏗️ | [**terraform-aws-ec2**](https://github.com/Srikala-25/terraform-aws-ec2) | Automate AWS EC2 provisioning with Terraform IaC | <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> |
+| ✈️ | [**Fight-Booking-App**](https://github.com/Srikala-25/Fight-Booking-App) | Flight booking web application | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> |
+| ☕ | [**javaprogram**](https://github.com/Srikala-25/javaprogram) | Java programming practice & algorithms | <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> |
+| 🎓 | [**apnacollege-demo**](https://github.com/Srikala-25/apnacollege-demo) | First steps — learning & growing | <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/> |
 
 </div>
 
@@ -94,36 +102,30 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Srikala-25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Srikala-25&bg_color=0A0F1E&color=1ECFA4&line=FCA311&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🎯 Currently Working On
 
-```
-🔭 CI/CD pipeline — Jenkins + Docker + Kubernetes on AWS EC2
-📚 Python for AI/ML — 150-day learning roadmap
-☁️  Deploying ML models on AWS SageMaker
-🌱 Terraform for Infrastructure as Code
-```
+<div align="center">
+
+| &nbsp; | Task |
+|---|---|
+| <img src="https://img.shields.io/badge/-Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white"/> | Building CI/CD pipeline on AWS EC2 |
+| <img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> | Python for AI/ML — 150-day learning roadmap |
+| <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/-SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> | Deploying ML models on AWS SageMaker |
+| <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/> | Infrastructure as Code with Terraform |
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **AWS with DevOps** — Certified @ LogicLab Solutions *(January 2026)*
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS%20with%20DevOps-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/LogicLab%20Solutions-January%202026-1ecfa4?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+</div>
 
 ---
 
@@ -131,20 +133,28 @@ linkedin    : linkedin.com/in/srikala-karimisetty
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikala-karimisetty/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srikala-25)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimisettysrikala@gmail.com)
+<a href="https://www.linkedin.com/in/srikala-karimisetty/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Srikala-25">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:karimisettysrikala@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-**💼 Open to:** DevOps Engineer · Cloud Engineer · SRE · Junior AWS Engineer roles
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to-DevOps%20Engineer-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to-Cloud%20Engineer-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to-SRE%20Roles-1ecfa4?style=for-the-badge" />
 
 </div>
 
 ---
 
 <div align="center">
-
-![snake gif](https://github.com/Srikala-25/Srikala-25/blob/output/github-contribution-grid-snake-dark.svg)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1ECFA4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C±" alt="footer typing" />
 </div>
